@@ -1,9 +1,5 @@
 {
-  "name": "mint-fullscreen",
-  "source-directories": [
-    "source"
-  ],
-  "test-directories": [
-    "tests"
-  ]
+  "name": "fullscreen",
+  "source-directories": ["source"],
+  "test-directories": ["tests"]
 }
